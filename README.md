@@ -1,2 +1,4 @@
-x = "Hello World"
-print(x)
+# hello-world
+#simple hello world script in python3
+hello = "Hello n00b!"
+print(hello)
